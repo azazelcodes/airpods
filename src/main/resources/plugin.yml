@@ -1,0 +1,6 @@
+name: airpods
+version: '0'
+main: me.azazeldev.airpods.Main
+api-version: '1.21'
+authors: [ azazeldev ]
+depend: [ GriefPrevention ]
